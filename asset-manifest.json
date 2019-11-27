@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sugoi/static/css/main.5679962c.chunk.css",
+    "main.js": "/sugoi/static/js/main.d96b2bd0.chunk.js",
+    "main.js.map": "/sugoi/static/js/main.d96b2bd0.chunk.js.map",
+    "runtime-main.js": "/sugoi/static/js/runtime-main.b7af68a4.js",
+    "runtime-main.js.map": "/sugoi/static/js/runtime-main.b7af68a4.js.map",
+    "static/js/2.693e8094.chunk.js": "/sugoi/static/js/2.693e8094.chunk.js",
+    "static/js/2.693e8094.chunk.js.map": "/sugoi/static/js/2.693e8094.chunk.js.map",
+    "index.html": "/sugoi/index.html",
+    "precache-manifest.75bf328e4863f95bf176fcceebef15a9.js": "/sugoi/precache-manifest.75bf328e4863f95bf176fcceebef15a9.js",
+    "service-worker.js": "/sugoi/service-worker.js",
+    "static/css/main.5679962c.chunk.css.map": "/sugoi/static/css/main.5679962c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7af68a4.js",
+    "static/js/2.693e8094.chunk.js",
+    "static/css/main.5679962c.chunk.css",
+    "static/js/main.d96b2bd0.chunk.js"
+  ]
+}
