@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sugoi/static/css/main.5679962c.chunk.css",
-    "main.js": "/sugoi/static/js/main.d912696e.chunk.js",
-    "main.js.map": "/sugoi/static/js/main.d912696e.chunk.js.map",
+    "main.css": "/sugoi/static/css/main.3bc71262.chunk.css",
+    "main.js": "/sugoi/static/js/main.6199da01.chunk.js",
+    "main.js.map": "/sugoi/static/js/main.6199da01.chunk.js.map",
     "runtime-main.js": "/sugoi/static/js/runtime-main.b7af68a4.js",
     "runtime-main.js.map": "/sugoi/static/js/runtime-main.b7af68a4.js.map",
     "static/js/2.bcd20543.chunk.js": "/sugoi/static/js/2.bcd20543.chunk.js",
     "static/js/2.bcd20543.chunk.js.map": "/sugoi/static/js/2.bcd20543.chunk.js.map",
     "index.html": "/sugoi/index.html",
-    "precache-manifest.7d4ef013d6b387cf2023ddc3e853d96a.js": "/sugoi/precache-manifest.7d4ef013d6b387cf2023ddc3e853d96a.js",
+    "precache-manifest.20f15f60cf645b79d1047d16dc8e99cf.js": "/sugoi/precache-manifest.20f15f60cf645b79d1047d16dc8e99cf.js",
     "service-worker.js": "/sugoi/service-worker.js",
-    "static/css/main.5679962c.chunk.css.map": "/sugoi/static/css/main.5679962c.chunk.css.map"
+    "static/css/main.3bc71262.chunk.css.map": "/sugoi/static/css/main.3bc71262.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b7af68a4.js",
     "static/js/2.bcd20543.chunk.js",
-    "static/css/main.5679962c.chunk.css",
-    "static/js/main.d912696e.chunk.js"
+    "static/css/main.3bc71262.chunk.css",
+    "static/js/main.6199da01.chunk.js"
   ]
 }
